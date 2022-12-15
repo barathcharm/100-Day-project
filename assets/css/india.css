@@ -116,12 +116,11 @@ h1:hover{
     justify-content:center;
     margin: 10px;
     padding-bottom: 8px;
-  
 }
 
 .player1 h5 img{
     width: 25px;
-    margin-left: 10px;
+    margin:auto  5px auto 10px;
 }
 .backup{
     position: absolute;
