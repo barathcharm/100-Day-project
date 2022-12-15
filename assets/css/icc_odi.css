@@ -1,0 +1,4 @@
+.choose a:nth-of-type(2){
+    background-color:  rgb(88, 88, 241);
+    color: white;
+}

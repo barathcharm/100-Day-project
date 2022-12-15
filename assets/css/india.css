@@ -1,4 +1,6 @@
-
+nav ul li:nth-child(2) a{
+    box-shadow: .5px .5px 2px black;
+}
 .content1{
     margin :100px 150px;
     display: flex;

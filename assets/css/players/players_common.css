@@ -1,3 +1,6 @@
+nav ul li:nth-child(2) a{
+    box-shadow: .5px .5px 2px black;
+}
 .content1{
     height: 600px;
     margin:100px auto 150px auto ;

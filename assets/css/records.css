@@ -1,4 +1,6 @@
-
+nav ul li:nth-child(3) a{
+    box-shadow: .5px .5px 2px black;
+}
 h1{
     text-align: center;
     margin:50px;
