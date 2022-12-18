@@ -24,7 +24,6 @@ nav ul li:nth-child(2) a{
     box-sizing: border-box;
     padding: 10px 35px;
     color:rgb(243, 243, 243);
-    font-family: sans-serif;
     
 }
 .parahead{
@@ -61,7 +60,8 @@ h1{
     text-align: center;
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
-    background-image: linear-gradient(to bottom right,rgb(41, 108, 252),navy);
+    background-image: linear-gradient(to bottom right,#04245c,#229bdc,#04245c);
+    
 }
 h1:hover{
     letter-spacing: 2px;
@@ -97,9 +97,7 @@ h1:hover{
     z-index: 2;
     border-radius: 20px;
     background-image:linear-gradient(to bottom right, #00c9fc,#005af0);
-    
 }
-
 .player1 >img{
     height: 160px;
     width: 160px;
