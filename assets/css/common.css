@@ -42,9 +42,7 @@ nav a {
     background-image: linear-gradient(to bottom right,#04245c,#229bdc,#04245c);
     font-size: 20px;
     text-decoration: none;
-
 }
-
 .batball{
     display: flex;
     justify-content: center;
